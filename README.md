@@ -11,7 +11,7 @@
 - **Auto-Grading** – Evaluates user answers and provides instant, detailed feedback.
 - **Fully Offline** – All processes occur locally for complete privacy.
 
-----
+---
 
 ## ⚙️ System Requirements
 
@@ -192,4 +192,4 @@ Incorporate voice-enabled feedback to enhance accessibility and user engagement.
 - Rajasri Kondaveeti
 - Cuma Cagri Mercan
 - Jyothimanohar Reddy Pothireddy
-- Natalie Hurt 
+- Natalie Hurt
