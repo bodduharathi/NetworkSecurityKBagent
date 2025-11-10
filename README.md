@@ -11,7 +11,7 @@
 - **Auto-Grading** – Evaluates user answers and provides instant, detailed feedback.
 - **Fully Offline** – All processes occur locally for complete privacy.
 
----
+----
 
 ## ⚙️ System Requirements
 
